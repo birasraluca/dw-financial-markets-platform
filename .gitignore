@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Flask
+instance/
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Mongo / temp
+dump/
+tmp/
+
+# JADE / random generated
+APDescription.txt
+MTPs-Main-Container.txt
+
+# React/Vite
+frontend/node_modules/
+frontend/dist/
+
+# Python envs
+backend/venv/
