@@ -347,13 +347,24 @@ Delete-marker records are used instead of physical deletions.
 # Screenshots
 
 ## Dashboard
-(Add screenshot here)
+<img width="456" height="638" alt="image" src="https://github.com/user-attachments/assets/6a685d1d-1cbc-4fa7-9f8c-52289dc15ba7" />
+
+<img width="449" height="276" alt="image" src="https://github.com/user-attachments/assets/da288bd7-408e-412f-9a66-69ded7cb311e" />
+<img width="449" height="478" alt="image" src="https://github.com/user-attachments/assets/79dc6425-9903-4300-b988-0070d56ede8b" />
+
+
+## Ingestion
+<img width="448" height="614" alt="image" src="https://github.com/user-attachments/assets/b99a9a00-5489-4937-a603-962b5cb1c816" />
+<img width="427" height="327" alt="image" src="https://github.com/user-attachments/assets/d407b68f-d025-43a2-8bf4-c3a106c28540" />
+
 
 ## Asset Comparison
-(Add screenshot here)
+<img width="457" height="494" alt="image" src="https://github.com/user-attachments/assets/1d7ae476-d4e3-4d18-85d2-7df8c0c444cf" />
+
 
 ## Metadata History
-(Add screenshot here)
+<img width="450" height="175" alt="image" src="https://github.com/user-attachments/assets/a498b7c5-76ef-4c01-8b82-8ac59ccb47b9" />
+
 
 ## Assistant Interaction
-(Add screenshot here)
+<img width="449" height="501" alt="image" src="https://github.com/user-attachments/assets/613baa8c-6c0f-4a01-aa0f-b2024b6328bc" />
